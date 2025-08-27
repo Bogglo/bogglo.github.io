@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://bogglo.github.io/sitemap.xml
